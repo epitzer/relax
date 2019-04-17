@@ -68,7 +68,7 @@ VorlNr:number	Titel:string	SWS:number	gelesenVon:number
 5216	Bioethik	2	2126
 5259	'Der Wiener Kreis'	2	2133
 5022	'Glaube und wissen'	2	2134
-4630	'Glaube und wissen'	4	2137
+4630	'Die 3 Kritiken'	4	2137
 }
 
 voraussetzen = {
@@ -96,7 +96,6 @@ MatrNr:number	VorlNr:number
 29120	5049
 29555	5022
 25403	5022
-29555	5001
 }
 
 Assistenten = {
